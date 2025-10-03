@@ -1,0 +1,65 @@
+Mentor Profile
+
+
+Name : Sriram R
+Designation : Assistant Manager - Instructors
+Work Experience : 6.8 Years
+Mentor Experience  : 2.8 Years
+Workshop and seminar Conducted : 25+  ( Online & Offline )
+International Journal Published : 2 ( ACSIT & MIANT)
+Number of learners Trained so far : 6000+
+
+
+Email : uxsriram95@gmail.com
+Age : 30
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Projects worked : 
+
+Project Nova : Designed and developed a AI based chatbot counselor named Nova - which is using RAG system act as a bridge between learners to make a conversation , clarify doubts and make them to choose course
+
+Editod - Design and developed an video review application which will act as a bridge between video editors and reviewers by directly viewing in the video and adding editing suggestions and approval status in the same place avoid 3 different softwares like google drive , Google Doc / sheet for review and approval in gmail
+
+Azile cafe - Designed an work management application that allows team to assign works and track the status and analyse the each persons performance metrics and helps team to drive and improve the performance
+
+
+
+Skills : 
+
+Design: UI/UX, Figma, Adobe XD, Photoshop & Illustrator, Responsive Design, Wireframing, Prototyping , Accessibility, Interaction design Branding & Visual Identity like color theory, Typography, Iconography
+
+Frontend: React.js, Redux, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3
+
+Backend: Node.js, Express.js, MongoDB, REST APIs, Authentication
+
+Tools: Git/GitHub, Docker, Postman, Vercel, Netlify , AWS , EC2 , S3
+
+Soft Skills: Problem Solving, Communication, Collaboration, Agile Development
+
+Vibing : Lovable , Bolt , Cursor , Windsurf 
+
+AI tools - chatGPT , Claude , Snitch , Relume , UIzard
+
+
+
+My Experience - added screenshot
+
+ 
+
